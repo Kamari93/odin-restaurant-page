@@ -2,7 +2,7 @@
 A restaurant page created with HTML, CSS, Vanilla JS, and Webpack.
 
 Inspired by michalosman's Restaurant Page:
-https://github.com/michalosman/restaurant-page/tree/main
+https://michalosman.github.io/restaurant-page/
 
 ### Photo Credits
  - [Chris Blair](https://unsplash.com/photos/person-playing-trumpet-during-night-time-A10y2Eq7OHY) on Unsplash
