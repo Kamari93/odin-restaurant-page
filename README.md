@@ -16,3 +16,4 @@ https://michalosman.github.io/restaurant-page/
  - [Duncan Kidd](https://unsplash.com/photos/baked-pancake-Js4jgpksRGk?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on Unsplash
  - [Portuguese Gravity](https://unsplash.com/photos/chocolate-cake-with-white-icing-on-top-4CwxnXWPDMQ?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on Unsplash
  - [Linda Roisum](https://unsplash.com/photos/a-plate-of-food-rmp56_4bMFU?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on Unsplash
+ - [Stavros Papadimitriou](https://unsplash.com/photos/a-stack-of-pancakes-with-syrup-and-berries-on-a-plate-UBvMCte4IIo?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on Unsplash
